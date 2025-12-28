@@ -55,12 +55,16 @@
 以下の可視化を通じて、解約傾向を分析しました:
 
 ### ROCカーブ
+### ROC Curve
+![ROC Curve](visuals/ROC_Curve.png)
 解約予測の性能を可視化。
 
 ### 混同行列
+![Confusion Matrix](visuals/confusion_matrix.png)
 真陽性・偽陽性・真陰性・偽陰性の状況を確認。
 
 ### モデル係数図
+![Coefficients](visuals/Top_Churn_Drivers.png)
 各特徴量が解約リスクに与える影響度を分析。
 
 ※ GitHub リポジトリ内の `visuals/` に保存済み。
