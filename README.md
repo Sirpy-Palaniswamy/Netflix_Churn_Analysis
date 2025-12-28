@@ -2,8 +2,9 @@
 - This project builds an end-to-end machine learning pipeline to predict customer churn for a subscription-based digital service.
 - The goal is to identify at-risk users early using behavioral, engagement, and subscription features.
 
-## Problem Statement
+###### ※ Report Findings are summarized in the `business_report` section of the repository
 
+## Problem Statement
 Customer churn is a critical business problem for subscription-based services.
 This project aims to identify users likely to churn by analyzing behavioral,
 engagement, and subscription-related data.
@@ -108,3 +109,10 @@ Future improvements:
 - Time-series engagement features
 - SHAP-based explainability
 
+## Frameworks
+- Python,
+- Pandas,
+- Scikit-learn,
+- Matplotlib,
+- Seaborn,
+- Jupyter Notebook
