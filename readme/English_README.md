@@ -1,4 +1,10 @@
 # Netflix Churn Analysis
+
+<div align="center">
+  
+[English](readme/English_README.md) | [日本語](readme/jp_README.md)
+</div>
+
 - This project builds an end-to-end machine learning pipeline to predict customer churn for a subscription-based digital service.
 - The goal is to identify at-risk users early using behavioral, engagement, and subscription features.
 
